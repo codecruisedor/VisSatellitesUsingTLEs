@@ -1,2 +1,0 @@
-export const AWS_ACCESS_KEY = "AKIA2TDDFG5N6S3EF3UG"
-export const AWS_SECRET_KEY = "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"
