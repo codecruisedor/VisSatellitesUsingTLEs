@@ -22,3 +22,4 @@ which means the end user always gets the latest data.
 **Frontend**: We call the DynamoDB table and obtain all the Two line element sets from the table. The core logic then parses these TLEs and obtains the position, velocity, altitude, and other kinds of satellite data. The animation frame updates the position of satellites every second. 
 All 3D objects are rendered using THREE.js.
 
+Thanks to the folks behind [tle.js](https://github.com/davidcalhoun/tle.js) for creating an awesome library.
